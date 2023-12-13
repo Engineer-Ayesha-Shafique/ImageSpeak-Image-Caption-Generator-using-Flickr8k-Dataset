@@ -5,6 +5,8 @@
 ## Mounting Drive and Downloading Dataset from Kaggle
 The script starts by mounting Google Drive to the Colab environment and downloading the Flickr8k dataset from Kaggle.
 
+https://www.kaggle.com/datasets/adityajn105/flickr8k/data
+
 ## ImageSpeak Workflow
 The ImageSpeak model is divided into two main steps:
 
